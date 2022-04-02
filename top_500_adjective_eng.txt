@@ -1,4 +1,4 @@
-Tính từ	Nghĩa
+adj	mean
 different	khác nhau
 used	được sử dụng
 important	quan trọng
