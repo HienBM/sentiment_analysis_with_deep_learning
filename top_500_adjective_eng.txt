@@ -1,4 +1,4 @@
-adj	mean
+Adj	Mean
 different	khác nhau
 used	được sử dụng
 important	quan trọng
