@@ -142,3 +142,7 @@ buscu	bú cu
 occho	óc chó
 cmn	con mẹ nó
 clmn	cái lồn mẹ nó
+nhucc	như con cặc
+nhucac	như cặc
+cc	con cặc
+
