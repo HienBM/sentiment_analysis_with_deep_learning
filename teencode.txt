@@ -256,11 +256,9 @@ ace	anh chị em
 uh	ừ
 cmm	con mẹ mày
 cmnr	con mẹ nó rồi
-ơii	ơi
 hnay	hôm nay
 ukm	ừm
 ctr	chương trình
-đii	đi
 nch	nói chuyện
 nta	người ta
 ngèo	nghèo
@@ -289,7 +287,6 @@ trc	trước
 chs	chẳng hiểu sao
 đhs	đéo hiểu sao
 qá	quá
-ntn	như thế nào
 wá	quá
 zậy	vậy
 zô	vô
@@ -338,7 +335,6 @@ kô	không
 đtqg	đội tuyển quốc gia
 hqua	hôm qua
 xog	xong
-uh	ừ
 uk	ừ
 nhoé	nhé
 quí	quý
@@ -352,20 +348,15 @@ fải	phải
 nguời	người
 tđn	thế đéo nào
 bth	bình thường
-vcđ	vãi cả đái
 tgdd	thế giới di động
 khg	không
 nhưg	nhưng
 thpt	trung học phổ thông
 thằg	thằng
-dc	được
-đc	được
-ah	à
 àh	à
 ku	cu
 thým	thím
 onl	online
-zô	dô
 zú	vú
 cmnd	chứng minh nhân dân
 sđt	số điện thoại
