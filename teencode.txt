@@ -330,7 +330,6 @@ my fen	my friend
 fen	friend
 cty	công ty
 on lai	online
-u hai ba	u23
 kô	không
 đtqg	đội tuyển quốc gia
 hqua	hôm qua
@@ -361,3 +360,5 @@ zú	vú
 cmnd	chứng minh nhân dân
 sđt	số điện thoại
 klq	không liên quan
+cskh  chăm sóc khách hàng
+đvvc  đơn vị vận chuyển
