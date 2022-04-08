@@ -360,5 +360,5 @@ zú	vú
 cmnd	chứng minh nhân dân
 sđt	số điện thoại
 klq	không liên quan
-cskh  chăm sóc khách hàng
-đvvc  đơn vị vận chuyển
+cskh	chăm sóc khách hàng
+đvvc	đơn vị vận chuyển
