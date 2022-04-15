@@ -159,10 +159,8 @@ cko	cho
 ckua	chưa
 clm	cái lồn mẹ
 clmm	cái lồn mẹ mày
-clmn	cái lồn mẹ nó
 cmày	chúng mày
 cmm	con mẹ mày
-cmn	con mẹ nó
 cmnd	chứng minh nhân dân
 cmnl	con mẹ nó luôn
 cmnr	con mẹ nó rồi
@@ -244,10 +242,7 @@ dat hang	đặt hàng
 đbh	đéo bao giờ
 dc	được
 đc	được
-dcm	địt con mẹ
-đcm	địt con mẹ
 dcmm	địt con mẹ mày
-đcmm	địt con mẹ mày
 đcsvn	đảng cộng sản việt nam
 đễ	để
 de dang	dễ dàng
@@ -270,7 +265,6 @@ dg	đang
 đhs	đéo hiểu sao
 dì	gì
 đỉ	đĩ
-di me	đĩ mẹ
 dia chi	địa chỉ
 diên thoại	điện thoại
 diện thoại	điện thoại
@@ -287,7 +281,6 @@ ditconme	địt con mẹ
 địtconmẹmầy	địt con mẹ mày
 ditcumay	địt cụ mày
 ditme	địt mẹ
-ditmemay	địt mẹ mày
 dittmmee	địt mẹ
 đjên	điên
 djt	địt
@@ -296,14 +289,9 @@ dki	đăng ký
 đki	đăng ký
 đkí	đăng ký
 đkiện	điều kiện
-dkm	địt con mẹ
 đkm	địt con mẹ
 dky	đăng ký
 đky	đăng ký
-dm	địt mẹ
-đm	địt mẹ
-dmm	địt mẹ mày
-đmm	địt mẹ mày
 đmshopee	địt mẹ shopee
 dòg	dòng
 đóg	đóng
@@ -632,7 +620,6 @@ lun	luôn
 luog	luong
 lượg	lượng
 lượnghàng	lượng hàng
-lz	làm gì
 lzada	lazada
 lzd	lazada
 lzi	làm gì
@@ -993,7 +980,6 @@ sịn	xịn
 sinhnhat	sinh nhật
 sip	ship
 síp	ship
-sml	sấp mặt lờ
 snghĩ	suy nghĩ
 snvv	sinh nhật vui vẻ
 soá	xóa
@@ -1334,7 +1320,6 @@ vc	vợ chồng
 vcđ	vãi cả đái
 vch	vãi chưởng
 vchg	vãi chưởng
-vcl	vãi cả lồn
 vd	ví dụ
 vđ	vãi đái
 vde	vấn đề
@@ -1346,7 +1331,6 @@ vídụ	ví dụ
 việcc	việc
 vk	vợ
 vkl	vãi cả lồn
-vl	vãi lồn
 vn	việt nam
 vnpos	vnpost
 vnpost	vnpost
