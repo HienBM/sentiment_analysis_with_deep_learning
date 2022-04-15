@@ -1426,7 +1426,6 @@ yen tam	yên tâm
 yêntam	yên tâm
 yeucau	yêu cầu
 yêucầu	yêu cầu
-yêuu	yêu
 youtobe	youtube
 ytâm	yên tâm
 ytb	youtube
@@ -1434,7 +1433,7 @@ ytb	youtube
 yyêu	yêu
 z là	vậy là
 zà	già
-zạ	vậy
+zạ	dạ
 zalada	lazada
 zám	dám
 zaxada	lazada
