@@ -18,12 +18,8 @@ nhan vien gh	nhân viên giao hàng
 nhân vien gh	nhân viên giao hàng
 bìnhvthường	bình thường
 chidaisendo	chị đại sendo
-đitconmemay	địt con mẹ mày
-địtconmẹmầy	địt con mẹ mày
 ma giam gia	mã giảm giá
 nhanh chong	nhanh chóng
-nhu cái lôn	như cái lồn
-nhu con cac	như con cặc
 quảng caocl	quảng cáo
 rattuietvoi	rất tuyệt vời
 trai nghiêm	trải nghiệm
@@ -631,7 +627,6 @@ ntnao	như thế nào
 ntnày	như thế này
 nvien	nhân viên
 ơ đây	ở đây
-ơiiii	ơi
 onlne	online
 popup	pop up
 q cáo	quảng cáo
@@ -1399,6 +1394,7 @@ vv	vui vẻ
 wa	quá
 wá	quá
 xg	xuống
+xl	xin lỗi
 yc	yêu cầu
 zà	già
 zạ	dạ
