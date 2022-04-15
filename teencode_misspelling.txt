@@ -1399,7 +1399,6 @@ vv	vui vẻ
 wa	quá
 wá	quá
 xg	xuống
-xl	xin lỗi
 yc	yêu cầu
 zà	già
 zạ	dạ
