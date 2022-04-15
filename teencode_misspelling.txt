@@ -1,856 +1,116 @@
-aap	app
-acc	account
-ace	anh chị em
-ad	admin
-ae	anh em
-ah	à
-àh	à
-ạh	ạ
-ai biê	ai biết
-ai biet	ai biết
-ai biét	ai biết
-ai biêt	ai biết
-ai bit	ai biết
-aj	ai
-ak	à
-ák	á
-àk	à
-ạk	ạ
-am binh	âm binh
-ấn dụng	ứng dụng
-apmin	admin
-ápp	app
-ăpp	app
-appmượt	app mượt
-arpay	airpay
-atrai	anh trai
-atsm	ảo tưởng sức mạnh
-aye	anh yêu em
-bằg	bằng
-bân	bận
-ban hang	bán hàng
-bân rôn	bận rộn
-bao dam	bảo đảm
-baoh	bao giờ
-băt	bắt
-bất mãng	bất mãn
-bất mảng	bất mãn
-bất tien	bất tiện
-bất xúc	bức xúc
-bâyh	bây giờ
-bbè	bạn bè
-bgái	bạn gái
-bgio	bao giờ
-bị lưa	bị lừa
-bien di	biến đi
-biet	biết
-biêt	biết
-biett	biết
-bìh	bình
-bik	biết
+chuyen di chuyen lai	chuyển đi chuyển lại
+hang chinh hang	hàng chính hãng
+chuyen nghiep	chuyên nghiệp
+giaohangnhanh	giao hàng nhanh
+kiem tra hang	kiểm tra hàng
+kiẻm tra hang	kiểm tra hàng
+the tinh dung	thẻ tín dụng
+cảm ơn nhieu	cảm ơn nhiều
+cho xem hang	cho xem hàng
+gia sản phẩm	giá sản phẩm
+hang di giao	hàng đi giao
+huy don hang	hủy đơn hàng
+khonglaisuat	không lãi suất
+khongmuahang	không mua hàng
+nghiem chinh	nghiem chỉnh
+nghiêm chinh	nghiêm chỉnh
+nhan vien gh	nhân viên giao hàng
+nhân vien gh	nhân viên giao hàng
+bìnhvthường	bình thường
+chidaisendo	chị đại sendo
+đitconmemay	địt con mẹ mày
+địtconmẹmầy	địt con mẹ mày
+ma giam gia	mã giảm giá
+nhanh chong	nhanh chóng
+nhu cái lôn	như cái lồn
+nhu con cac	như con cặc
+quảng caocl	quảng cáo
+rattuietvoi	rất tuyệt vời
+trai nghiêm	trải nghiệm
+tuong thích	tương thích
+vậnchuyeern	vận chuyển
 binhthuong	bình thường
 bìnhthuong	bình thường
-bìnhvthường	bình thường
-bit	biết
-bjet	biết
-bjk	biết
-bjt	bit
-bme	bố mẹ
-bn	bạn
-bnhiêu	bao nhiêu
-bnhiu	bao nhiêu
-bo het	bỏ hết
-bo lao	bố láo
-bóg	bóng
-bsĩ	bác sĩ
-bsvv	buổi sáng vui vẻ
-bth	bình thường
-bthg	bình thường
-bthuong	bình thường
-bthường	bình thường
-btrai	bạn trai
-buầi	buồi
-buc minh	bực mình
-buôg	buông
-buồii	buồi
-buồu	buồi
-cã	cả
-căc	cặc
-cag	cang
-càg	càng
-cai thien	cải thiện
-cải thiên	cải thiện
-cặk	cặc
-cãm	cảm
-cam on	cảm ơn
-cam ơn	cám ơn
-cảm ơn nhieu	cảm ơn nhiều
-cam thay	cảm thấy
-cảmnthấy	cảm thấy
-can thiet	cần thiết
-canh bao	cảnh báo
-cặp nhất	cập nhật
-cặt	cặc
-cat co	cắt cổ
-cbị	chuẩn bị
-cđời	cuộc đời
-ce	chị em
-cẹc	cặc
-cg	cũng
-cgai	con gái
-cgái	con gái
-cguan	chuẩn
-chách	trách
-chàg	chàng
-chăg	chăng
-chẳg	chẳng
-cham hon	chậm hơn
-cham soc	chăm sóc
-chẳn	chẳng
-chan qua	chán quá
-chẵng	chẳng
-chăngbiết	chẳng biết
 chat luong	chất lượng
 chat lượng	chất lượng
 chát lượng	chất lượng
 chật lượng	chất lượng
 chấtbluong	chất lượng
-chatluong	chất lượng
-chấtlượng	chất lượng
-chễ	trễ
-chidaisendo	chị đại sendo
-chiệu	chịu
 chinh hang	chính hãng
-chiu	chịu
-chìu	chiều
-chj	chi
-chk	chồng
-cho xem hang	cho xem hàng
-chs	chẳng hiểu sao
-chta	chúng ta
-chử	chữ
-chủaan	chuẩn
-chuabiet	chưa biết
-chuahieu	chưa hiểu
-chuan	chuẩn
-chuanbmuc	chuẩn mực
-chuẩnluôn	chuẩn luôn
 chuẩnnhưng	chuẩn nhưng
 chưavdungf	chưa đúng
-chuđáo	chu đáo
-chuện	chuyện
-chug	chung
-chúg	chúng
-chữi	chửi
-chưng bày	trưng bày
-chưởi	chửi
-chuyễn	chuyển
-chuyen di chuyen lai	chuyển đi chuyển lại
-chuyen nghiep	chuyên nghiệp
-chuyểnđổi	chuyển đổi
 chuyenvdoi	chuyển đổi
-chx	chưa
-chyển	chuyển
-cj	chị
-cjo	cho
-ck	chồng
-cka	cha
-cko	cho
-ckua	chưa
-clm	cái lồn mẹ
-clmm	cái lồn mẹ mày
-cmày	chúng mày
-cmm	con mẹ mày
-cmnd	chứng minh nhân dân
-cmnl	con mẹ nó luôn
-cmnr	con mẹ nó rồi
-cmt	comment
-co the	có thể
-coa	có
-cóa	có
-coảng cáo	quảng cáo
-côg	công
-coment	comment
-con cat	con cặc
-concac	con cặc
-công ti	công ty
-cong ty	công ty
 cổngonline	cổng trực tuyến
-coppy	copy
-cóthgian	có thời gian
-cskh	chăm sóc khách hàng
-csong	cuộc sống
-csống	cuộc sống
-cta	chúng ta
-ctác	công tác
-ctkm	chương trình khuyến mãi
-ctr	chương trình
-ctrai	con trai
-ctraj	con trai
-ctrinh	chương trình
-ctrình	chương trình
-ctv	cộng tác viên
-cty	công ty
-cũa	của
-cữa	cửa
-cua hang	cửa hàng
-cuảng cáo	quảng cáo
-cuc phan	cục phân
-cuc sac	cục sạc
-cug	cũng
-cùg	cùng
-cũg	cũng
-củg	cũng
-cugok	cũng được
-cũn	cũng
-cung cap	cung cấp
-cung dep	cũng đẹp
 cung nhieu	cũng nhiều
-cung nhu	cũng như
-cung ok	cũng ok
-cung tien	cũng tiện
-cũng z	cũng vậy
-cungduoc	cũng được
-cũngg	cũng
-cũngtamj	cũng tạm
-cũngtiện	cũng tiện
-cunhx	cũng
-cuq	cũng
-cũq	cũng
-cv	công việc
-cviec	công việc
-cx	cũng
-cx dc	cũng được
-da dang	đa dạng
-đặc đồ	đặt đồ
-đặc hàng	đặt hàng
-dag	đang
-đag	đang
-đág	đáng
-đăg	đăng
-dàh	dành
-đáh	đánh
-đàn hoàng	đàng hoàng
-đàng hoàn	đàng hoàng
-dang ky	đăng ký
-dang nhap	đăng nhập
-dangnhap	đăng nhập
-đão	đảo
-đaq	đang
-đăq	đăng
-dat hang	đặt hàng
-đbh	đéo bao giờ
-dc	được
-đc	được
-dcmm	địt con mẹ mày
-đcsvn	đảng cộng sản việt nam
-đễ	để
-de dang	dễ dàng
-del	đéo
-đel	đéo
-delay	hoãn
-dell	đéo
-đell	đéo
-déo	đéo
-đeó	đéo
-deo thich	đéo thích
-đeo thich	đéo thích
-đeo thích	đéo thích
-dethuong	dễ thương
-dg	đang
-đg	đang
-đhbkhn	đại học bách khoa hà nội
-đhkhtn	đại học khoa học tự nhiên
-đhọc	đại học
-đhs	đéo hiểu sao
-dì	gì
-đỉ	đĩ
-dia chi	địa chỉ
 diên thoại	điện thoại
 diện thoại	điện thoại
 đien thoại	điện thoại
 điẹn thoại	điện thoại
-đienthoai	điện thoại
-điểu	đểu
-địh	định
-đii	đi
-điiiiiii	đi
-dit me	địt mẹ
-ditconme	địt con mẹ
-đitconmemay	địt con mẹ mày
-địtconmẹmầy	địt con mẹ mày
-ditcumay	địt cụ mày
-ditme	địt mẹ
-dittmmee	địt mẹ
-đjên	điên
-djt	địt
-đjt	địt
-dki	đăng ký
-đki	đăng ký
-đkí	đăng ký
-đkiện	điều kiện
-đkm	địt con mẹ
-dky	đăng ký
-đky	đăng ký
-đmshopee	địt mẹ shopee
-dòg	dòng
-đóg	đóng
-đôg	đông
-đồg	đồng
-độg	động
-đỏi	đổi
-doi khi	đôi khi
-doi tra	đổi trả
-dỗm	dỏm
-dổm	dỏm
-dõm	dỏm
-đơmn giản	đơn giản
-don giản	đơn giản
-đon giản	đơn giản
-đơn giãn	đơn giản
-don hang	đơn hàng
-đon hang	đơn hàng
-đơn hang	đơn hàng
-đt	điện thoại
-đthoai	điện thoại
-đthoại	điện thoại
-dthương	dễ thương
-đtqg	đội tuyển quốc gia
-du me	đụ mẹ
-đu mẹ	đụ mẹ
-dùg	dùng
-dừg	dừng
-dụg	dụng
-đug	đung
-đúg	đúng
-đứg	đứng
-đừg	đừng
-duma	đụ má
-đúmg	đúng
-dụn	dụng
-đúnghàng	đúng hàng
-dụngtuyệt	dụng tuyệt
-dụnh	dụng
-đúnh	đúng
-duoc	được
-đuoc	được
-đuợc	được
-đuọc	được
-đươc	được
-đượcnhưg	được nhưng
-duok	được
-dụq	dụng
-đúq	đúng
-duyendang	duyên dáng
-duyet	duyệt
-dv	dịch vụ
-dvu	dịch vụ
-đvvc	đơn vị vận chuyển
-dx	được
-đx	được
-đỵt cụ	địt cụ
-dz	đẹp trai
-đz	đẹp giai
-đzai	đẹp trai
-dzậy	dậy
-emil	email
-éo	đéo
-ep gia	ép giá
-eya	em yêu anh
-face	facebook
-fai	phải
-fải	phải
-fây	phây
-fb	facebook
-feeship	free ship
-fen	friend
-fs	free ship
-gắg	gắng
-gất	rất
-gđ	gia đình
-gê	ghê
-gẻ	rẻ
-gét	ghét
-ghet	ghét
-ghj	ghi
-ghn	giao hàng nhanh
-ghtk	giao hàng tiết kiệm
-gi	gì
-gía	giá
-gia sản phẩm	giá sản phẩm
-gia soc	giá sốc
 giai quyet	giải quyết
-giãm	giảm
-giam gia	giảm giá
-giao dich	giao dịch
-giao hang	giao hàng
-giaob	giao
 giaobthiếu	giao thiếu
-giaohàng	giao hàng
-giaohangnhanh	giao hàng nhanh
-giaov	giao
-giất	rất
-giất ngủ	giấc ngủ
-gìơ	giờ
-giog	giống
-giốg	giống
-giởm	dỏm
-giử	giữ
-giup	giúp
-gj	gi
-gja	gia
-gjao	giao
-gjo	gio
-gòi	rồi
-goodd	good
-goole	google
-gop y	góp ý
-gữi	gửi
-hà	à
-hag	hàng
-hàg	hàng
-hàh	hành
-hahah	ha ha
-hai long	hài lòng
-hai lòng	hài lòng
-hàinlong	hài lòng
-haj	hai
-hajz	haiz
-hang chinh hang	hàng chính hãng
 hang chuẩn	hàng chuẩn
-hang di giao	hàng đi giao
-hang hoa	hàng hóa
-hang rẻ	hàng rẻ
-hàngchất	hàng chất
-hàngđược	hàng được
-hàngnhanh	hàng nhanh
-hànq	hàng
-haoif	hoài
-hap dan	hấp dẫn
-hàq	hàng
-hay đay	hay đấy
-hayy	hay
-hcm	hồ chí minh
-hđh	hệ điều hành
-hđộng	hành động
-hêhê	hê hê
-hên xuôi	hên xui
-hic	hích
-highland	hai lừn
-hìh	hình
-hiha	hi ha
-hihe	hi he
-hìhì	hì hì
-hỉu	hiểu
-hixxx	hích
-hj	hi
-hjnh	hinh
-hjx	hix
-hjxhjx	hix hix
-hk	không
-hkì	học kỳ
-hnay	hôm nay
-hoăc	hoặc
-hoàn hão	hoàn hảo
-hog	hông
-hok	không
-họk	học
-hông	không
-hong kong	hồng kông
-hop ly	hợp lý
-hoy	thôi
-hphúc	hạnh phúc
-hqua	hôm qua
-hsd	hạn sử dụng
-hsơ	hồ sơ
-hsy	hay
-htrc	hôm trước
-hữ dụng	hữu dụng
-hữa dụng	hữu dụng
-hứq	hứng
-huu dung	hữu dụng
-hưu dung	hưu dung
-hửu dụng	hữu dụng
-huu hieu	hữu hiệu
-hưu hieu	hữu hiệu
-huu ic	hữu ích
-huu ich	hữu ích
-huu ích	hữu ích
-hưu ich	hữu ích
-huu ichh	hữu ích
-hưu ichh	hữu ích
-huu inch	hữu ích
-huu it	hữu ích
-hưu it	hưu ích
-hữu ít	hữu ích
-huu ivh	hữu ích
-hưu ivh	hữu ích
-huux	hữu
-huy	hủy
-huỹ	hủy
-hũy	hủy
-huy don hang	hủy đơn hàng
-ib	inbox
-ik	ý
-in4	info
-insta	instagram
-iphon	iphone
-iphonee	iphone
-iu	yêu
-jao	giao
-ji	gì
-jo	giờ
-jong	giống
-júp	giúp
-k	không
-kái	cái
-kảm	cảm
-kậu	cậu
-kêh	kênh
-keke	ce ce
-ket noi	kết nối
-kg	không
-kh	không
 khach hang	khách hàng
 khach hàng	khách hàng
+khuyen mai	khuyến mãi
+mac qua di	mắc quá đi
+nguoinkhac	người khác
+nhanhchong	nhanh chóng
+quảng caoa	quảng cáo
+quatienloi	quá tiện lợi
+that la te	thật là tệ
+thất vọnga	thất vọng
+thivtruong	thị trường
+thoavthich	thỏa thích
+tinhnguyen	tình nguyện
+trainghiem	trải nghiệm
+ứngdụngrất	ứng dụng rất
+ungdungtot	ứng dụng tốt
+uqngs dung	ứng dụng
+van chuyen	vận chuyển
+van chuyển	vận chuyển
+cai thien	cải thiện
+cải thiên	cải thiện
+can thiet	cần thiết
+chăngbiết	chẳng biết
+chatluong	chất lượng
+chấtlượng	chất lượng
+chuanbmuc	chuẩn mực
+chuẩnluôn	chuẩn luôn
+chưng bày	trưng bày
+chuyểnđổi	chuyển đổi
+coảng cáo	quảng cáo
+cuảng cáo	quảng cáo
+cung tien	cũng tiện
+đàn hoàng	đàng hoàng
+đàng hoàn	đàng hoàng
+dang nhap	đăng nhập
+đienthoai	điện thoại
+đơmn giản	đơn giản
+dụngtuyệt	dụng tuyệt
+duyendang	duyên dáng
+giao dich	giao dịch
+giao hang	giao hàng
+hàngnhanh	hàng nhanh
+hong kong	hồng kông
 kháchhàng	khách hàng
-khg	không
-khiệunai	khiếu nại
-khiong	không
-khj	khi
 khó triệu	khó chịu
-khoảg	khoảng
-khog	không
-khôg	không
-khong	không
 khôngbiết	không biết
-khongcho	không cho
 khôngđăng	không đăng
 khôngđúng	không đúng
-khongg	không
-khonghay	không hay
-khonglaisuat	không lãi suất
-khongmuahang	không mua hàng
 khôngnhắn	không nhắn
 khongthay	không thấy
-khongtot	không tốt
-khônh	không
-Khoonh	không
-khôq	không
-khuyen mai	khuyến mãi
 khuyenmai	khuyến mãi
 khuyệnmai	khuyến mãi
-kiễm	kiểm
 kiem hang	kiểm hàng
 kiểm hang	kiểm hàng
-kiem tra	kiểm tra
-kiem tra hang	kiểm tra hàng
-kiẻm tra hang	kiểm tra hàng
-kih	kinh
-kinh te	kinh tế
-kiti	tiki
-kiu	kêu
-kỉu	kiểu
-klq	không liên quan
-km	khuyến mãi
-kmai	khuyến mãi
-ko	không
-kô	không
-kog	không
-kòn	còn
-kqua	kết quả
-ksao	không sao
-kte	kinh tế
-ktra	kiểm tra
-ku	cu
-kủa	của
-kug	cũng
-kũg	cũng
-kứng	cứng
-làada	lazada
-lad	là
-ladaza	lazada
-lag	đơ
-lặg	lặng
-lagg	lag
-lạh	lạnh
-laj	lai
-làlừađảo	là lừa đảo
-lám	lắm
-lam an	làm ăn
-larada	lazada
-lasada	lazada
-lắt	lắc
-laz	lazada
-laza	lazada
-lazađa	lazada
-lazâda	lazada
-lâzada	lazada
-lazadaa	lazada
-lazala	lazada
-lazara	lazada
-lazaza	lazada
-lazda	lazada
-lâzda	lazada
-lazzada	lazada
-lgi	làm gì
-lien he	liên hệ
-lien ket	liên kết
-llac	liên lạc
-lm	làm
-lmht	liên minh huyền thoại
-lòg	lòng
-lổi	lỗi
-lol	lồn
-lồnz	lồn
-loz	lồn
-lozz	lồn
-lquan	liên quan
-lquen	làm quen
-lsf	là
-ltinh	linh tinh
-lữa	nữa
-lua chon	lựa chọn
-lua dao	lừa đảo
-lua đao	lừa đảo
-lưa đao	lừa đảo
-luk	lúc
-lúk	lúc
-lun	luôn
-luog	luong
-lượg	lượng
 lượnghàng	lượng hàng
-lzada	lazada
-lzd	lazada
-lzi	làm gì
-ma giam gia	mã giảm giá
-mac hon	mắc hơn
-mac qua di	mắc quá đi
-mạg	mạng
-mat cong	mất công
-mắt mệt	mắc mệt
-mấythằng	mấy thằng
-met	mệt
-met moi	mệt mỏi
-mh	mình
-mịa	mẹ
-mih	mình
-mìh	mình
-mik	mình
-mìk	mình
-mink	mình
-mìnk	mình
-mjh	mình
-mjk	mình
-mjnh	mình
-mk	mình
-mn	mọi người
-mng	mọi người
-mog	mong
-mog mõi	mong mỏi
-mói	mới
-mổi mòn	mỏi mòn
-moinguoi	mọi người
-moj	moi
-mớj	mới
-monh	mong
-mpvc	miễn phí vận chuyển
-mqh	mối quan hệ
-ms	mới
-mua hang	mua hàng
-mua sam	mua sắm
-muasắm	mua sắm
-mún	muốn
-muon hủy	muốn hủy
-muoonmua	muốn mua
-mxh	mạng xã hội
-my fen	my friend
-nàg	nàng
-năg	năng
-nắg	nắng
-nặg	nặng
-nãn	nản
-napj	nạp
-ncc	như con cặc
-nch	nói chuyện
-nchung	nói chung
-nek	nè
-nèk	nè
-neu	nếu
-ng	người
-ngag	ngang
-ngàh	ngành
 ngân hành	ngân hàng
-ngđo	người đó
-ngđó	người đó
-nge	nghe
-ngèo	nghèo
-nghành	ngành
-nghiem chinh	nghiem chỉnh
-nghiêm chinh	nghiêm chỉnh
-nghj	nghi
-ngĩ	nghĩ
-ngía	nghía
-ngiem	nghiêm
-ngiệm	nghiệm
-ngin	nghìn
-ngìn	nghìn
-ngke	nghe
-ngkhac	người khác
-ngkhác	người khác
-ngòai	ngoài
-ngốk	ngốc
-ngon lam	ngon lắm
-ngonvl	ngon vãi lồn
-ngt	người ta
-ngta	người ta
-nguoi	người
-nguời	người
-ngừoi	người
 nguoicban	người bán
-ngườimua	người mua
-nguoinkhac	người khác
-nguoiyeu	người yêu
 nguyênzin	nguyên zin
-ngyeu	người yêu
-ngyêu	người yêu
-nhaa	nha
-nhah	nhanh
 nhan vien	nhân viên
-nhan vien gh	nhân viên giao hàng
-nhân vien gh	nhân viên giao hàng
-nhanh chong	nhanh chóng
 nhanh hon	nhanh hơn
-nhanhchong	nhanh chóng
-nhânviên	nhân viên
-nhặp	nhập
-nhậy cảm	nhạy cảm
-nhều	nhiều
-nhg	nhưng
-nhièu	nhiều
 nhieuquas	nhiều quá
-nhiềuuu	nhiều
-nhiu	nhiêu
-nhìu	nhiều
-nhiue	nhiều
-nhìuk	nhiều
-nhjeu	nhiều
-nhju	nhiều
-nhoé	nhé
-nhu cái lôn	như cái lồn
-nhu cc	như con cặc
-như cc	như con cặc
-nhu con cac	như con cặc
-nhu cuc	như cức
-nhu lol	như lồn
-nhu minh	như mình
-nhưbg	nhưng
-nhuconcac	như con cặc
-nhueng	nhưng
-nhug	nhưng
-nhưg	nhưng
-nhữg	những
-nhưn	nhưng
-nhữn	những
-nhữnc	những
-nhứng	nhưng
-nhungbma	nhưng mà
-nhưnh	nhưng
-nhữnh	những
-nhưq	nhưng
-nhx	nhưng
-niếu	nếu
-nkư	như
-nkưng	nhưng
-nógn	nóng
-ns	nói
-nsx	nhà sản xuất
-nta	người ta
-nthe	như thế
-nthê	như thế
-nthế	như thế
-ntn	như thế nào
-ntnao	như thế nào
-ntnày	như thế này
-nua	nữa
-nv	nhân viên
-nvay	như vậy
-nvậy	như vậy
-nvien	nhân viên
-nvqs	nghĩa vụ quân sự
-nx	nữa
-ny	người yêu
-nyc	người yêu cũ
-nyêu	người yêu
-ơ đây	ở đây
-o ke	ok
-ô kê	ok
-ôg	ông
-oh	ồ
-ơiii	ơi
-ơiiii	ơi
-okê	ok
-ôkê	ok
-okey	ok
-oki	ok
-okii	ok
-okk	ok
-okok	ok
-okrattot	ok rất tốt
-on lai	online
-onl	online
-onlne	online
-ote	được
-oy	rồi
-òy	rồi
-p triển	phát triển
-pải	phải
-phãi	phải
-phaj	phai
-phầm mềm	phần mềm
-phan hoi	phản hồi
-phan hôi	phản hồi
-phan hồi	phản hồi
-phan mem	phần mềm
-phi rẻ	phí rẻ
 phien ban	phiên bản
-phj	phi
-phog	phong
-phòg	phòng
-phopee	shopee
-phuc vu	phục vụ
-pị	bị
-piết	biết
-pik	biết
-pit	biết
-pjt	biết
-plz	pờ ly
-pn	bạn
-popup	pop up
-q cáo	quảng cáo
-qá	quá
-qà	quà
-qả	quả
-qài	hoài
-qc	quảng cáo
-qcao	quảng cáo
-qhe	quan hệ
-qhệ	quan hệ
-qq	quần què
-qtam	quan tâm
-qtâm	quan tâm
-qtrọng	quan trọng
-qúa	quá
-qua lâu	quá lây
-qua te	quá tệ
-quá te	quá tệ
-quag	quang
-quãg	quảng
-quảg	quảng
-quan cao	quảng cáo
-quan cáo	quảng cáo
-quãn cáo	quảng cáo
-quản cáo	quảng cáo
 quảng cai	quảng cáo
 quảng cái	quảng cáo
 quang cao	quảng cáo
@@ -860,256 +120,164 @@ quảng cao	quảng cáo
 quảng cào	quảng cáo
 quảng câo	quảng cáo
 quảng cảo	quảng cáo
-quảng caoa	quảng cáo
-quảng caocl	quảng cáo
 quảng cáp	quảng cáo
 quảng cáu	quảng cáo
 quảng váo	quảng cáo
-quảngcáo	quảng cáo
-quás	quá
-quatienloi	quá tiện lợi
-qué	quá
-quí	quý
-qui tín	uy tín
-quịch	quỵt
-quoảng	quảng
 qurng cáo	quảng cáo
-quy tín	uy tín
-quỵch	quỵt
 quyen loi	quyền lợi
 quyen loj	quyền lợi
-raats	rất
-rácc	rác
-ràg	ràng
-răg	răng
-rằg	rằng
-rak	rất
-râst	rất
-rat	rất
-rât	rất
-rẩt	rất
 rất la te	rất là tệ
-rắt rối	rắc rối
-rat te	rất tệ
-rất te	rất tệ
 rat thich	rất thích
 rát thích	rất thích
+ratvtuyet	rất tuyệt
+that vong	thất vọng
+thất vộng	thất vọng
+thiện trí	thiện chí
+thong bao	thông báo
+thong tin	thông tin
+thuậntien	thuận tiện
+thực hiẹn	thực hiện
+tien dung	tiện dụng
+tiep theo	tiếp theo
+tieuchuan	tiêu chuẩn
+tiêudungf	tiêu dùng
+tin tuong	tin tưởng
+tinhnnang	tính năng
+tiyetnvoi	tuyệt vời
+tốntieefn	tốn tiền
+tuyet voi	tuyệt vời
+tuyệttftt	tuyệt
+ưbgs dụng	ứng dụng
+ứmng dụng	ứng dụng
+ưnga dụng	ứng dụng
+ướng dụng	ứng dụng
+vậnchuyen	vận chuyển
+xung dang	xứng đáng
+ban hang	bán hàng
+bất mãng	bất mãn
+bất mảng	bất mãn
+bất tien	bất tiện
+buc minh	bực mình
+cam thay	cảm thấy
+cảmnthấy	cảm thấy
+canh bao	cảnh báo
+cặp nhất	cập nhật
+cham hon	chậm hơn
+cham soc	chăm sóc
+chan qua	chán quá
+chuabiet	chưa biết
+chuahieu	chưa hiểu
+cóthgian	có thời gian
+cua hang	cửa hàng
+cung cap	cung cấp
+cung dep	cũng đẹp
+cung nhu	cũng như
+cungduoc	cũng được
+cũngtamj	cũng tạm
+cũngtiện	cũng tiện
+đặc hàng	đặt hàng
+dangnhap	đăng nhập
+dat hang	đặt hàng
+dethuong	dễ thương
+don giản	đơn giản
+đon giản	đơn giản
+đơn giãn	đơn giản
+don hang	đơn hàng
+đon hang	đơn hàng
+đơn hang	đơn hàng
+đúnghàng	đúng hàng
+đượcnhưg	được nhưng
+giam gia	giảm giá
+giaohàng	giao hàng
+giất ngủ	giấc ngủ
+hai long	hài lòng
+hai lòng	hài lòng
+hàinlong	hài lòng
+hang hoa	hàng hóa
+hàngchất	hàng chất
+hàngđược	hàng được
+hên xuôi	hên xui
+hoàn hão	hoàn hảo
+hữa dụng	hữu dụng
+huu dung	hữu dụng
+hưu dung	hưu dung
+hửu dụng	hữu dụng
+huu hieu	hữu hiệu
+hưu hieu	hữu hiệu
+huu ichh	hữu ích
+hưu ichh	hữu ích
+huu inch	hữu ích
+khiệunai	khiếu nại
+khongcho	không cho
+khonghay	không hay
+khongtot	không tốt
+kiem tra	kiểm tra
+làlừađảo	là lừa đảo
+lien ket	liên kết
+lua chon	lựa chọn
+mat cong	mất công
+mấythằng	mấy thằng
+moinguoi	mọi người
+mua hang	mua hàng
+muon hủy	muốn hủy
+muoonmua	muốn mua
+ngon lam	ngon lắm
+ngườimua	người mua
+nguoiyeu	người yêu
+nhânviên	nhân viên
+nhậy cảm	nhạy cảm
+nhu minh	như mình
+nhungbma	nhưng mà
+okrattot	ok rất tốt
+phầm mềm	phần mềm
+phan hoi	phản hồi
+phan hôi	phản hồi
+phan hồi	phản hồi
+phan mem	phần mềm
+quan cao	quảng cáo
+quan cáo	quảng cáo
+quãn cáo	quảng cáo
+quản cáo	quảng cáo
+quảngcáo	quảng cáo
 rat thit	rất thích
-rấtbhay	rất hay
 ratchuan	rất chuẩn
 ratctien	rất tiện
-râtd	rất
-rathay	rất hay
 rấtnhanh	rất nhanh
 rấtnhiều	rất nhiều
-ratoke	rất được
-ratot	rất tốt
-rats	rất
-râts	rất
-rấtt	rất
-ratte	rất tệ
 ratthich	rất thích
 râtthich	rất thích
 rấtthích	rất thích
-ratthik	rất thích
-rấttiện	rất tiện
-ráttot	rất tốt
-rattuietvoi	rất tuyệt vời
 rấttuyet	rất tuyệt
-ratvtuyet	rất tuyệt
-ratxtot	rất tốt
-re	rẻ
-rẽ	rẻ
-re hon	rẻ hơn
-rep	trả lời
-rì	gì
-riếc	riết
-riêg	riêng
-rieng	riêng
-riet	riết
-rõ rành	rõ ràng
-rồii	rồi
-rrats	rất
-rùi	rồi
 rút cuộc	rốt cuộc
-sag	sang
 san pham	sản phẩm
 sản phầm	sản phẩm
-sạo	xạo
 saokhông	sao không
 saokovao	sao không vào
 sát minh	xác minh
-sd	sử dụng
-sdt	số điện thoại
-sđt	số điện thoại
-sdung	sử dụng
-sedo	sendo
-sen do	sendo
-sen đỏ	sendo
-senđo	sendo
-senđỏ	sendo
-sf	sản phẩm
-sg	sài gòn
-shendo	sendo
-shio	ship
-shíp	ship
-shipber	shipper
-shiper	shipper
-shjp	ship
-shoop	shop
-shoope	shopee
-shoopee	shopee
-shooppe	shopee
-shóp	shop
-shop ee	shopee
-shopbee	shopee
-shope	shopee
-shopeee	shopee
-shopi	shopee
-shopp	shop
-shoppe	shopee
-shoppee	shopee
-shoppi	shopee
-shoppy	shopee
-shopy	shopee
-shpee	shopee
-shpoee	shopee
-shppe	shopee
-sihp	ship
-sịn	xịn
 sinhnhat	sinh nhật
-sip	ship
-síp	ship
-snghĩ	suy nghĩ
-snvv	sinh nhật vui vẻ
-soá	xóa
-sốg	sống
-sohp	shop
-sohpee	shopee
-som	sớm
-soopee	shopee
-sop	shop
-sóp	shop
-sốp	shop
-sopee	shopee
-soppe	shopee
-soppee	shopee
-soppi	shopee
-soppy	shopee
-sp	sản phẩm
-spham	sản phẩm
-sphẩm	sản phẩm
-sphopee	shopee
-sr	sorry
-stk	số tài khoản
-su dung	sử dụng
-sử lí	xử lý
-sử lý	xử lý
-sub	subcribe
-sui	xui
 sửndungj	sử dụng
-sướnq	sướng
 suy nghi	suy nghĩ
-sviên	sinh viên
-svtn	sinh viên tình nguyện
-tăg	tăng
-tặg	tặng
-tãi	tải
-tại sau	tại sao
-taj	tai
 tam thoi	tạm thời
-tạmđc	tạm được
-tan noi	tận nơi
 tang gia	tăng giá
-tao lao	tào lao
-tao lau	tao lao
-tau lau	tao lao
-tcảm	tình cảm
-tđn	thế đéo nào
-te hai	tệ hại
-te lắm	tệ lắm
-te that	tệ thật
 teencode	tin cốt
-tgdd	thế giới di động
-tgian	thời gian
-tha ho	tha hồ
-thag	thang
-thág	tháng
-thằg	thằng
-thẳg	thẳng
-thah	thanh
-thàh	thành
-thahk	thank
-thẳn	thẳng
 thanhhóa	thanh hóa
 thap hon	thấp hơn
-that la te	thật là tệ
-thất ra	thật ra
-that su	thật sự
-that vong	thất vọng
-thất vộng	thất vọng
-thất vọnga	thất vọng
 thấtvong	thất vọng
-tháy	thấy
-thay rẻ	thấy rẻ
 thấygian	thấy gian
-the tinh dung	thẻ tín dụng
 thêmđiều	thêm điều
 thểtránh	thể tránh
-thgian	thời gian
-thic	thích
-thíc	thích
-thich	thích
 thíchapp	thích app
 thíchcác	thích các
-thíchh	thích
 thíchmua	thích mua
-thichs	thích
-thick	thích
-thíck	thích
-thiện trí	thiện chí
 thiet bi	thiết bị
-thik	thích
-thík	thích
 thìkhoản	thì khoản
-thít	thích
-thíu	thiếu
-thivtruong	thị trường
-thix	thích
-thj	thi
-thjc	thích
-thjch	thích
-thjk	thích
-thk	thanks
-thoavthich	thỏa thích
-thog	thong
-thôg	thông
 thờigian	thời gian
-thôii	thôi
 thôithôi	thôi thôi
-thong bao	thông báo
-thong tin	thông tin
 thôngbáo	thông báo
 thongtin	thông tin
-thoy	thôi
-thpt	trung học phổ thông
-thu vi	thú vị
 thuậnlợi	thuận lợi
-thuậntien	thuận tiện
-thực hiẹn	thực hiện
-thuc te	thực tế
-thuj	thôi
-thươg	thương
-thườg	thường
-thuơng	thương
-thỳ	thì
-thým	thím
 tich cuc	tích cực
-tiếg	tiếng
-tièn	tiền
-tiẹn	tiện
 tien dug	tiện dụng
-tien dung	tiện dụng
 tien hon	tiện hơn
 tien ich	tiện ích
 tien ích	tiện ích
@@ -1119,127 +287,30 @@ tien loi	tiện lợi
 tiendung	tiện dụng
 tiệndung	tiện dụng
 tiệnnlơi	tiện lợi
-tiep theo	tiếp theo
 tiep tuc	tiếp tục
 tiep tục	tiếp tục
 tietkiem	tiết kiệm
 tieu cuc	tiêu cực
-tieuchuan	tiêu chuẩn
-tiêudungf	tiêu dùng
-tih	tinh
-tíh	tính
-tìh	tình
 timbkiem	tìm kiếm
-tin cay	tin cậy
 tín năng	tính năng
-tin tuong	tin tưởng
-tinh te	tinh tế
-tinhnguyen	tình nguyện
-tinhnnang	tính năng
 tinquảng	tin quảng
-tiu	tiêu
-tiyetnvoi	tuyệt vời
-tjen	tien
-tjn	tin
-tjnh	tinh
-tkhoan	tài khoản
-tks	thanks
-tlai	tương lai
-tmdt	thương mại điện tử
-tmđt	thương mại điện tử
-tnào	thế nào
-tốcvcáo	tố cáo
-tổg	tổng
-toi te	tồi tệ
-toi uu	tối ưu
 tôiquyết	tôi quyết
 toithich	tôi thích
-toj	toi
 ton tien	tốn tiền
-tốntieefn	tốn tiền
-tot	tốt
-tót	tốt
-tôt	tốt
-tốt hon	tốt hơn
-tốtcho	tốt cho
 totchuan	tốt chuẩn
-tôtd	tốt
-tốtnhất	tốt nhất
 tốtnhưng	tốt nhưng
-tp hcm	thành phố hồ chí minh
-tphcm	thành phố hồ chí minh
-tq	trung quốc
-trã	trả
-trading	trading
-trag	trang
-trắg	trắng
-trai nghiêm	trải nghiệm
-trainghiem	trải nghiệm
-trậm	chậm
 trangjav	trang jav
 trangsex	trang sex
-trc	trước
-tren	trên
 tréo mảy	treo máy
-trieu	triệu
-trk	trước
-trl	trả lời
-trloi	trả lời
-troai	trai
-trog	trong
-trọg	trọng
 trongkhi	trong khi
-trug	trung
-trùg	trùng
-trugtâm	trung tâm
-truoc	trước
 trướckhi	trước khi
-trườg	trường
-trướk	trước
-tthất	thất
-tthông	thông
-tthứ	thứ
 tthuaanj	thuận
-tthuận	thuận
-ttiện	tiện
-ttoàn	toàn
-ttoi	toi
-ttôi	tôi
-ttới	tới
-ttrên	trên
-ttừ	từ
-ttuyệt	tuyệt
 tu nhien	tự nhiên
 tuc chet	tức chết
 tudangky	tự đăng ký
-từg	từng
-tuicòn	tui còn
-tuii	tui
-tưởg	tưởng
-tượg	tượng
 tuoisang	tươi sáng
-tượmg	tượng
-tưởn	tưởng
-tưỡng	tưởng
-tửong	tưởng
-tuong thích	tương thích
-tưởq	tưởng
 tuyenvoi	tuyệt vời
 tuyênvoi	tuyệt vời
-tuyet	tuyệt
-tuyêt	tuyệt
-tuyẹt	tuyệt
-tuỵet	tuyệt
-tụyêt	tuyệt
-tuyet voi	tuyệt vời
-tuyeta	tuyệt
-tuyêtf	tuyệt
-tuyetj	tuyệt
-tuyêtj	tuyệt
-tuyêtk	tuyệt
-tuyêtn	tuyệt
-tuyett	tuyệt
-tuyệttftt	tuyệt
 tuyệttyy	tuyệt
 tuyetvoi	tuyệt vời
 tuyệtvoi	tuyệt vời
@@ -1247,31 +318,7 @@ tuyệtvơi	tuyệt vời
 tuyệtvời	tuyệt vời
 tuyetzoi	tuyệt vời
 tùyngười	tùy người
-tyệt	tuyệt
-tyêu	tình yêu
-tym	tim
-u hai ba	u23
 ứbg dụng	ứng dụng
-ưbgs dụng	ứng dụng
-uc chế	ức chế
-ức dụng	ứng dụng
-ud	ứng dụng
-ưd	ứng dụng
-ứdụng	ứng dụng
-ug	ứng
-ủg	ủng
-ưg	ưng
-ứg	ứng
-ug dug	ứng dụng
-uh	ừ
-uhm	ừm
-uk	uh
-ừk	ừ
-ukm	uh
-ứmng dụng	ứng dụng
-ừn dụng	ứng dụng
-unf	unfriend
-ung dug	ứng dụng
 ung dumg	ứng dụng
 ung dung	ứng dụng
 ung dụng	ứng dụng
@@ -1280,151 +327,963 @@ ung dụng	ứng dụng
 ừng dụng	ứng dụng
 ững dụng	ứng dụng
 ựng dụng	ứng dụng
-ung ho	ủng hộ
-ưnga dụng	ứng dụng
+ứngdungj	ứng dụng
+ungvdung	ứng dụng
+vàonhưng	vào nhưng
+xấunhưng	xấu nhưng
+zựtcôhôn	zựt cô hồn
+ai biet	ai biết
+ai biét	ai biết
+ai biêt	ai biết
+am binh	âm binh
+ấn dụng	ứng dụng
+appmượt	app mượt
+bân rôn	bận rộn
+bao dam	bảo đảm
+bất xúc	bức xúc
+bien di	biến đi
+bthuong	bình thường
+bthường	bình thường
+công ti	công ty
+cong ty	công ty
+cuc sac	cục sạc
+cung ok	cũng ok
+da dang	đa dạng
+dang ky	đăng ký
+de dang	dễ dàng
+dia chi	địa chỉ
+doi khi	đôi khi
+doi tra	đổi trả
+dthương	dễ thương
+feeship	free ship
+gia soc	giá sốc
+hang rẻ	hàng rẻ
+hap dan	hấp dẫn
+hay đay	hay đấy
+hữ dụng	hữu dụng
+huu ich	hữu ích
+huu ích	hữu ích
+hưu ich	hữu ích
+huu ivh	hữu ích
+hưu ivh	hữu ích
+iphonee	iphone
+ket noi	kết nối
+kinh te	kinh tế
+lazadaa	lazada
+lazzada	lazada
+lien he	liên hệ
+lua dao	lừa đảo
+lua đao	lừa đảo
+lưa đao	lừa đảo
+mac hon	mắc hơn
+mắt mệt	mắc mệt
+met moi	mệt mỏi
+mog mõi	mong mỏi
+mổi mòn	mỏi mòn
+mua sam	mua sắm
+nhiềuuu	nhiều
+nhu cuc	như cức
+p triển	phát triển
+phuc vu	phục vụ
+qua lâu	quá lây
+qui tín	uy tín
+quy tín	uy tín
+rắt rối	rắc rối
+rấtbhay	rất hay
+ratthik	rất thích
+rấttiện	rất tiện
+ratxtot	rất tốt
+rõ rành	rõ ràng
+shipber	shipper
+shoopee	shopee
+shooppe	shopee
+shop ee	shopee
+shopbee	shopee
+shopeee	shopee
+shoppee	shopee
+sphopee	shopee
+su dung	sử dụng
+tại sau	tại sao
+tan noi	tận nơi
+tao lao	tào lao
+tao lau	tao lao
+tau lau	tao lao
+te that	tệ thật
+thất ra	thật ra
+that su	thật sự
+thay rẻ	thấy rẻ
+thuc te	thực tế
+tin cay	tin cậy
+tinh te	tinh tế
+tốcvcáo	tố cáo
+tốt hon	tốt hơn
+tốtnhất	tốt nhất
+trading	trading
+trugtâm	trung tâm
+ức dụng	ứng dụng
+ừn dụng	ứng dụng
+ung dug	ứng dụng
 ứngdung	ứng dụng
 ứngdụng	ứng dụng
-ứngdungj	ứng dụng
-ứngdụngrất	ứng dụng rất
-ungdungtot	ứng dụng tốt
-ungvdung	ứng dụng
-uốg	uống
-ướng dụng	ứng dụng
-ứq	ứng
-uqngs dung	ứng dụng
+uy tinh	uy tín
+uy tính	uy tín
+vọngkhi	vọng khi
+vọngtôi	vọng tôi
+vùalòng	vừa lòng
+xhopbee	shopee
+xuâtsac	xuất sắc
+yen tam	yên tâm
+youtobe	youtube
+ai biê	ai biết
+ai bit	ai biết
+bị lưa	bị lừa
+bnhiêu	bao nhiêu
+bo het	bỏ hết
+bo lao	bố láo
+cam on	cảm ơn
+cam ơn	cám ơn
+cat co	cắt cổ
+chủaan	chuẩn
+chuđáo	chu đáo
+chuyễn	chuyển
+co the	có thể
+coment	comment
+ctrinh	chương trình
+ctrình	chương trình
+cũng z	cũng vậy
+đặc đồ	đặt đồ
+đhbkhn	đại học bách khoa hà nội
+đhkhtn	đại học khoa học tự nhiên
+đthoai	điện thoại
+đthoại	điện thoại
+ep gia	ép giá
+hjxhjx	hix hix
+hop ly	hợp lý
+huu ic	hữu ích
+huu it	hữu ích
+hưu it	hưu ích
+hữu ít	hữu ích
+khiong	không
+khongg	không
+Khoonh	không
+ladaza	lazada
+lam an	làm ăn
+larada	lazada
+lasada	lazada
+lazađa	lazada
+lazâda	lazada
+lâzada	lazada
+lazala	lazada
+lazara	lazada
+lazaza	lazada
+muasắm	mua sắm
+my fen	my friend
+nchung	nói chung
+nghành	ngành
+ngkhac	người khác
+ngkhác	người khác
+ngonvl	ngon vãi lồn
+nhu cc	như con cặc
+như cc	như con cặc
+nhueng	nhưng
+on lai	online
+phi rẻ	phí rẻ
+phopee	shopee
+qtrọng	quan trọng
+qua te	quá tệ
+quá te	quá tệ
+quoảng	quảng
+rat te	rất tệ
+rất te	rất tệ
+rathay	rất hay
+ratoke	rất được
+ráttot	rất tốt
+re hon	rẻ hơn
+sen do	sendo
+sen đỏ	sendo
+shendo	sendo
+shiper	shipper
+shoope	shopee
+shoppe	shopee
+shoppi	shopee
+shoppy	shopee
+shpoee	shopee
+sohpee	shopee
+soopee	shopee
+soppee	shopee
+te hai	tệ hại
+te lắm	tệ lắm
+tha ho	tha hồ
+thgian	thời gian
+thíchh	thích
+thichs	thích
+thu vi	thú vị
+thuơng	thương
+tkhoan	tài khoản
+toi te	tồi tệ
+toi uu	tối ưu
+tốtcho	tốt cho
+tp hcm	thành phố hồ chí minh
+tthông	thông
+tthuận	thuận
+ttuyệt	tuyệt
+tuicòn	tui còn
+tuyeta	tuyệt
+tuyêtf	tuyệt
+tuyetj	tuyệt
+tuyêtj	tuyệt
+tuyêtk	tuyệt
+tuyêtn	tuyệt
+tuyett	tuyệt
+uc chế	ức chế
+ug dug	ứng dụng
+ung ho	ủng hộ
 uu dai	ưu đãi
 uu đai	ưu đãi
 ưu dai	uư đãi
 ưu tín	uy tín
-ứung	ứng
 uy tin	uy tín
 ủy tín	uy tín
-uy tinh	uy tín
-uy tính	uy tín
-vaf	và
-vag	và
-vaiz	vãi
-van chuyen	vận chuyển
-van chuyển	vận chuyển
 van de	vấn đề
-vậnchuyeern	vận chuyển
-vậnchuyen	vận chuyển
+vnpost	vnpost
+vnpots	vnpost
+vo van	vớ vẩn
+vocher	voucher
+xemxet	xem xét
+xhopee	shopee
+xinloi	xin lỗi
+yêntam	yên tâm
+yeucau	yêu cầu
+yêucầu	yêu cầu
+zalada	lazada
+zaxada	lazada
+nhiềuu	nhiều
+apmin	admin
+arpay	airpay
+atrai	anh trai
+biett	biết
+bnhiu	bao nhiêu
+btrai	bạn trai
+buồii	buồi
+cguan	chuẩn
+chách	trách
+chẵng	chẳng
+chiệu	chịu
+chuan	chuẩn
+chuện	chuyện
+chưởi	chửi
+chyển	chuyển
+coppy	copy
+csong	cuộc sống
+csống	cuộc sống
+ctrai	con trai
+ctraj	con trai
+cugok	cũng được
+cũngg	cũng
+cunhx	cũng
+cviec	công việc
+cx dc	cũng được
+đcsvn	đảng cộng sản việt nam
+delay	hoãn
+đkiện	điều kiện
+duyet	duyệt
+giaob	giao
+giaov	giao
+goodd	good
+goole	google
+gop y	góp ý
+hahah	ha ha
+haoif	hoài
+hđộng	hành động
+hixxx	hích
+hphúc	hạnh phúc
+insta	instagram
+iphon	iphone
+khoảg	khoảng
+khong	không
+khônh	không
+làada	lazada
+lazda	lazada
+lâzda	lazada
+lquan	liên quan
+lquen	làm quen
+ltinh	linh tinh
+lzada	lazada
+ngiem	nghiêm
+ngiệm	nghiệm
+ngòai	ngoài
+nguoi	người
+nguời	người
+ngừoi	người
+ngyeu	người yêu
+ngyêu	người yêu
+nhièu	nhiều
+nhiue	nhiều
+nhìuk	nhiều
+nhjeu	nhiều
+nhưbg	nhưng
+nhữnc	những
+nhứng	nhưng
+nhưnh	nhưng
+nhữnh	những
+nkưng	nhưng
+ntnao	như thế nào
+ntnày	như thế này
+nvien	nhân viên
+ơ đây	ở đây
+ơiiii	ơi
+onlne	online
+popup	pop up
+q cáo	quảng cáo
+quịch	quỵt
+quỵch	quỵt
+raats	rất
+ratot	rất tốt
+ratte	rất tệ
+rieng	riêng
+rrats	rất
+sdung	sử dụng
+senđo	sendo
+senđỏ	sendo
+shoop	shop
+shope	shopee
+shopi	shopee
+shopp	shop
+shopy	shopee
+shpee	shopee
+shppe	shopee
+snghĩ	suy nghĩ
+sopee	shopee
+soppe	shopee
+soppi	shopee
+soppy	shopee
+spham	sản phẩm
+sphẩm	sản phẩm
+sử lí	xử lý
+sử lý	xử lý
+sướnq	sướng
+sviên	sinh viên
+tạmđc	tạm được
+tgian	thời gian
+thahk	thank
+thich	thích
+thick	thích
+thíck	thích
+thjch	thích
+thôii	thôi
+thươg	thương
+thườg	thường
+tphcm	thành phố hồ chí minh
+trieu	triệu
+trloi	trả lời
+troai	trai
+truoc	trước
+trườg	trường
+trướk	trước
+tthất	thất
+ttiện	tiện
+ttoàn	toàn
+ttrên	trên
+tượmg	tượng
+tưỡng	tưởng
+tửong	tưởng
+tuyet	tuyệt
+tuyêt	tuyệt
+tuyẹt	tuyệt
+tuỵet	tuyệt
+tụyêt	tuyệt
+ứdụng	ứng dụng
+vềbên	về bên
+vềchi	về chi
+việcc	việc
+vnpos	vnpost
+voeif	với
+voeis	với
+vthôi	vậy thôi
+vua y	vừa ý
+wuảng	quảng
+xưỡng	xưởng
+ýthức	ý thức
+zthoi	vậy thôi
+zthôi	vậy thôi
+gđình	gia đình
+atsm	ảo tưởng sức mạnh
+baoh	bao giờ
+bâyh	bây giờ
+bgái	bạn gái
+bgio	bao giờ
+biet	biết
+biêt	biết
+bjet	biết
+bsvv	buổi sáng vui vẻ
+bthg	bình thường
+buầi	buồi
+buôg	buông
+buồu	buồi
+cđời	cuộc đời
+cgai	con gái
+cgái	con gái
+chàg	chàng
+chăg	chăng
+chẳg	chẳng
+chẳn	chẳng
+chiu	chịu
+chìu	chiều
+chta	chúng ta
+chug	chung
+chúg	chúng
+chữi	chửi
+ckua	chưa
+cmày	chúng mày
+cmnd	chứng minh nhân dân
+cskh	chăm sóc khách hàng
+ctác	công tác
+ctkm	chương trình khuyến mãi
+đhọc	đại học
+điểu	đểu
+đjên	điên
+đtqg	đội tuyển quốc gia
+duma	đụ má
+đúmg	đúng
+dụnh	dụng
+đúnh	đúng
+duoc	được
+đuoc	được
+đuợc	được
+đuọc	được
+đươc	được
+duok	được
+đvvc	đơn vị vận chuyển
+đzai	đẹp trai
+dzậy	dậy
+emil	email
+face	facebook
+ghet	ghét
+ghtk	giao hàng tiết kiệm
+giãm	giảm
+giất	rất
+giog	giống
+giốg	giống
+giởm	dỏm
+giup	giúp
+gjao	giao
+hajz	haiz
+hànq	hàng
+hayy	hay
+hêhê	hê hê
+hiha	hi ha
+hihe	hi he
+hìhì	hì hì
+hjnh	hinh
+hnay	hôm nay
+hoăc	hoặc
+hông	không
+hqua	hôm qua
+htrc	hôm trước
+huux	hữu
+jong	giống
+keke	ce ce
+khog	không
+khôg	không
+khôq	không
+kiễm	kiểm
+kiti	tiki
+kmai	khuyến mãi
+kqua	kết quả
+ksao	không sao
+ktra	kiểm tra
+kứng	cứng
+lagg	lag
+laza	lazada
+llac	liên lạc
+lmht	liên minh huyền thoại
+lồnz	lồn
+lozz	lồn
+luog	luong
+lượg	lượng
+mink	mình
+mìnk	mình
+mjnh	mình
+monh	mong
+mpvc	miễn phí vận chuyển
+napj	nạp
+ngag	ngang
+ngàh	ngành
+ngđo	người đó
+ngđó	người đó
+ngèo	nghèo
+nghj	nghi
+ngía	nghía
+ngin	nghìn
+ngìn	nghìn
+ngke	nghe
+ngốk	ngốc
+ngta	người ta
+nhaa	nha
+nhah	nhanh
+nhặp	nhập
+nhều	nhiều
+nhiu	nhiêu
+nhìu	nhiều
+nhju	nhiều
+nhoé	nhé
+nhug	nhưng
+nhưg	nhưng
+nhữg	những
+nhưn	nhưng
+nhữn	những
+nhưq	nhưng
+niếu	nếu
+nógn	nóng
+nthe	như thế
+nthê	như thế
+nthế	như thế
+nvay	như vậy
+nvậy	như vậy
+nvqs	nghĩa vụ quân sự
+nyêu	người yêu
+o ke	ok
+ô kê	ok
+ơiii	ơi
+okey	ok
+okii	ok
+okok	ok
+phãi	phải
+phaj	phai
+phog	phong
+phòg	phòng
+piết	biết
+qcao	quảng cáo
+qtam	quan tâm
+qtâm	quan tâm
+quag	quang
+quãg	quảng
+quảg	quảng
+quás	quá
+rácc	rác
+râst	rất
+râtd	rất
+rats	rất
+râts	rất
+rấtt	rất
+riếc	riết
+riêg	riêng
+riet	riết
+rồii	rồi
+sedo	sendo
+shio	ship
+shíp	ship
+shjp	ship
+shóp	shop
+sihp	ship
+snvv	sinh nhật vui vẻ
+sohp	shop
+svtn	sinh viên tình nguyện
+tcảm	tình cảm
+tgdd	thế giới di động
+thag	thang
+thág	tháng
+thằg	thằng
+thẳg	thẳng
+thah	thanh
+thàh	thành
+thẳn	thẳng
+tháy	thấy
+thic	thích
+thíc	thích
+thik	thích
+thík	thích
+thít	thích
+thíu	thiếu
+thix	thích
+thjc	thích
+thjk	thích
+thog	thong
+thôg	thông
+thoy	thôi
+thpt	trung học phổ thông
+thuj	thôi
+thým	thím
+tiếg	tiếng
+tièn	tiền
+tiẹn	tiện
+tjen	tien
+tjnh	tinh
+tlai	tương lai
+tmdt	thương mại điện tử
+tmđt	thương mại điện tử
+tnào	thế nào
+tôtd	tốt
+trag	trang
+trắg	trắng
+trậm	chậm
+tren	trên
+trog	trong
+trọg	trọng
+trug	trung
+trùg	trùng
+tthứ	thứ
+ttoi	toi
+ttôi	tôi
+ttới	tới
+tuii	tui
+tưởg	tưởng
+tượg	tượng
+tưởn	tưởng
+tưởq	tưởng
+tyệt	tuyệt
+tyêu	tình yêu
+ứung	ứng
+vaiz	vãi
 vânx	vẫn
-vao	vào
-vàonhưng	vào nhưng
 vâyh	vậy
 vâyj	vậy
 vâyk	vậy
 vậyy	vậy
-vc	vợ chồng
-vcđ	vãi cả đái
-vch	vãi chưởng
 vchg	vãi chưởng
-vd	ví dụ
-vđ	vãi đái
-vde	vấn đề
-vđê	vấn đề
-vđề	vấn đề
-vềbên	về bên
-vềchi	về chi
 vídụ	ví dụ
-việcc	việc
-vk	vợ
-vkl	vãi cả lồn
-vn	việt nam
-vnpos	vnpost
-vnpost	vnpost
-vnpots	vnpost
 vnxk	việt nam xuất khấu
-vo van	vớ vẩn
-vocher	voucher
-voeif	với
-voeis	với
-vòg	vòng
-vọg	vọng
-vói	với
 vơia	với
 vơig	vời
 vớii	với
 vờii	vời
-vớj	với
-vọngkhi	vọng khi
-vọngtôi	vọng tôi
-vs	với
-vthôi	vậy thôi
-vua y	vừa ý
-vùalòng	vừa lòng
-vùg	vùng
-vuj	vui
-vv	vui vẻ
-wa	quá
-wá	quá
-wài	hoài
-wak	quá
 wánh	quánh
-wen	quen
-wên	quên
-wep	web
 wjfi	wifi
 wjfj	wifi
-woá	quá
 wtam	quan tâm
 wtâm	quan tâm
-wtf	what the fuck
-wuá	quá
-wúa	quá
-wuảng	quảng
-xắm	sắm
-xamloll	xàm lồn
-xamlon	xàm lồn
-xamloz	xàm lồn
-xấunhưng	xấu nhưng
-xemxet	xem xét
-xg	xuống
 xhop	shop
-xhopbee	shopee
-xhopee	shopee
-xih	xinh
 xink	xinh
-xinloi	xin lỗi
-xip	ship
-xl	xin lỗi
 xloi	xin lỗi
-xog	xong
 xomg	xong
-xoq	xong
-xuâtsac	xuất sắc
-xug	xùng
-xứg	xứng
-xung dang	xứng đáng
 xuốg	xuống
 xuồg	xuồng
 xuơg	xương
 xưởg	xưởng
-xưỡng	xưởng
 xuốq	xuống
-xỷn	xỉn
-yc	yêu cầu
 ycầu	yêu cầu
-yen tam	yên tâm
-yêntam	yên tâm
-yeucau	yêu cầu
-yêucầu	yêu cầu
-youtobe	youtube
 ytâm	yên tâm
-ytb	youtube
-ýthức	ý thức
 yyêu	yêu
 z là	vậy là
-zà	già
-zạ	dạ
-zalada	lazada
+zóng	giống
+zòng	dòng
+zống	giống
+zọng	giọng
+zuii	vui
+hjhj	hihi
+aap	app
+acc	account
+ace	anh chị em
+ápp	app
+ăpp	app
+aye	anh yêu em
+bằg	bằng
+bân	bận
+băt	bắt
+bbè	bạn bè
+bìh	bình
+bik	biết
+bit	biết
+bjk	biết
+bjt	bit
+bme	bố mẹ
+bóg	bóng
+bsĩ	bác sĩ
+bth	bình thường
+căc	cặc
+cag	cang
+càg	càng
+cặk	cặc
+cãm	cảm
+cặt	cặc
+cbị	chuẩn bị
+cẹc	cặc
+chễ	trễ
+chj	chi
+chk	chồng
+chs	chẳng hiểu sao
+chử	chữ
+chx	chưa
+cjo	cho
+cka	cha
+cko	cho
+cmt	comment
+coa	có
+cóa	có
+côg	công
+cta	chúng ta
+ctr	chương trình
+ctv	cộng tác viên
+cty	công ty
+cũa	của
+cữa	cửa
+cug	cũng
+cùg	cùng
+cũg	cũng
+củg	cũng
+cũn	cũng
+cuq	cũng
+cũq	cũng
+dag	đang
+đag	đang
+đág	đáng
+đăg	đăng
+dàh	dành
+đáh	đánh
+đão	đảo
+đaq	đang
+đăq	đăng
+địh	định
+đii	đi
+djt	địt
+đjt	địt
+dki	đăng ký
+đki	đăng ký
+đkí	đăng ký
+dky	đăng ký
+đky	đăng ký
+dòg	dòng
+đóg	đóng
+đôg	đông
+đồg	đồng
+độg	động
+đỏi	đổi
+dỗm	dỏm
+dổm	dỏm
+dõm	dỏm
+dùg	dùng
+dừg	dừng
+dụg	dụng
+đug	đung
+đúg	đúng
+đứg	đứng
+đừg	đừng
+dụn	dụng
+dụq	dụng
+đúq	đúng
+dvu	dịch vụ
+eya	em yêu anh
+fai	phải
+fải	phải
+fây	phây
+fen	friend
+gắg	gắng
+gất	rất
+gét	ghét
+ghj	ghi
+ghn	giao hàng nhanh
+gía	giá
+gìơ	giờ
+giử	giữ
+gja	gia
+gjo	gio
+gòi	rồi
+gữi	gửi
+hag	hàng
+hàg	hàng
+hàh	hành
+haj	hai
+hàq	hàng
+hcm	hồ chí minh
+hđh	hệ điều hành
+hic	hích
+hìh	hình
+hỉu	hiểu
+hjx	hix
+hkì	học kỳ
+hog	hông
+hok	không
+họk	học
+hoy	thôi
+hsd	hạn sử dụng
+hsơ	hồ sơ
+hsy	hay
+hứq	hứng
+huy	hủy
+huỹ	hủy
+hũy	hủy
+in4	info
+jao	giao
+júp	giúp
+kái	cái
+kảm	cảm
+kậu	cậu
+kêh	kênh
+khg	không
+khj	khi
+kih	kinh
+kiu	kêu
+kỉu	kiểu
+klq	không liên quan
+kog	không
+kòn	còn
+kte	kinh tế
+kủa	của
+kug	cũng
+kũg	cũng
+lad	là
+lag	đơ
+lặg	lặng
+lạh	lạnh
+laj	lai
+lám	lắm
+lắt	lắc
+laz	lazada
+lgi	làm gì
+lòg	lòng
+lổi	lỗi
+lsf	là
+lữa	nữa
+luk	lúc
+lúk	lúc
+lun	luôn
+lzd	lazada
+lzi	làm gì
+mạg	mạng
+met	mệt
+mịa	mẹ
+mih	mình
+mìh	mình
+mik	mình
+mìk	mình
+mjh	mình
+mjk	mình
+mng	mọi người
+mog	mong
+mói	mới
+moj	moi
+mớj	mới
+mqh	mối quan hệ
+mún	muốn
+mxh	mạng xã hội
+nàg	nàng
+năg	năng
+nắg	nắng
+nặg	nặng
+nãn	nản
+nch	nói chuyện
+nek	nè
+nèk	nè
+neu	nếu
+nge	nghe
+ngĩ	nghĩ
+ngt	người ta
+nhg	nhưng
+nhx	nhưng
+nkư	như
+nsx	nhà sản xuất
+nta	người ta
+ntn	như thế nào
+nua	nữa
+nyc	người yêu cũ
+okê	ok
+ôkê	ok
+oki	ok
+okk	ok
+onl	online
+ote	được
+pải	phải
+phj	phi
+pik	biết
+pit	biết
+pjt	biết
+plz	please
+qài	hoài
+qhe	quan hệ
+qhệ	quan hệ
+qúa	quá
+qué	quá
+quí	quý
+ràg	ràng
+răg	răng
+rằg	rằng
+rak	rất
+rat	rất
+rât	rất
+rẩt	rất
+rep	trả lời
+rùi	rồi
+sag	sang
+sạo	xạo
+sdt	số điện thoại
+sđt	số điện thoại
+sịn	xịn
+sip	ship
+síp	ship
+soá	xóa
+sốg	sống
+som	sớm
+sop	shop
+sóp	shop
+sốp	shop
+stk	số tài khoản
+sub	subcribe
+sui	xui
+tăg	tăng
+tặg	tặng
+tãi	tải
+taj	tai
+tđn	thế đéo nào
+thj	thi
+thk	thanks
+thỳ	thì
+tih	tinh
+tíh	tính
+tìh	tình
+tiu	tiêu
+tjn	tin
+tks	thanks
+tổg	tổng
+toj	toi
+tot	tốt
+tót	tốt
+tôt	tốt
+trã	trả
+trc	trước
+trk	trước
+trl	trả lời
+ttừ	từ
+từg	từng
+tym	tim
+uhm	ừm
+ukm	uh
+unf	unfriend
+uốg	uống
+vaf	và
+vag	và
+vao	vào
+vcđ	vãi cả đái
+vch	vãi chưởng
+vde	vấn đề
+vđê	vấn đề
+vđề	vấn đề
+vkl	vãi cả lồn
+vòg	vòng
+vọg	vọng
+vói	với
+vớj	với
+vùg	vùng
+vuj	vui
+wài	hoài
+wak	quá
+wen	quen
+wên	quên
+wep	web
+woá	quá
+wuá	quá
+wúa	quá
+xắm	sắm
+xih	xinh
+xip	ship
+xog	xong
+xoq	xong
+xug	xùng
+xứg	xứng
+xỷn	xỉn
+ytb	youtube
 zám	dám
-zaxada	lazada
 zay	vậy
 zậy	vậy
-zẻ	vẻ
-zì	gì
 zìa	gì
 zốg	giống
 zồi	rồi
@@ -1432,29 +1291,127 @@ zới	với
 zòm	dòm
 zỏm	dỏm
 zởm	dỏm
-zóng	giống
-zòng	dòng
-zống	giống
-zọng	giọng
-zthoi	vậy thôi
-zthôi	vậy thôi
+zừa	vừa
+zui	vui
+zùi	rồi
+zùm	dùm
+hôg	không
+ơii	ơi
+ad	admin
+ae	anh em
+ah	à
+àh	à
+ạh	ạ
+aj	ai
+ak	à
+ák	á
+àk	à
+ạk	ạ
+bn	bạn
+cã	cả
+ce	chị em
+cg	cũng
+cj	chị
+ck	chồng
+cv	công việc
+cx	cũng
+dc	được
+đc	được
+đễ	để
+dg	đang
+đg	đang
+dì	gì
+đỉ	đĩ
+đt	điện thoại
+dv	dịch vụ
+dx	được
+đx	được
+dz	đẹp trai
+đz	đẹp giai
+éo	đéo
+fb	facebook
+fs	free ship
+gđ	gia đình
+gê	ghê
+gẻ	rẻ
+gi	gì
+gj	gi
+hà	à
+hj	hi
+hk	không
+ib	inbox
+ik	ý
+iu	yêu
+ji	gì
+jo	giờ
+kg	không
+kh	không
+km	khuyến mãi
+ko	không
+kô	không
+ku	cu
+lm	làm
+mh	mình
+mk	mình
+mn	mọi người
+ms	mới
+ng	người
+ns	nói
+nv	nhân viên
+nx	nữa
+ny	người yêu
+ôg	ông
+oh	ồ
+oy	rồi
+òy	rồi
+pị	bị
+pn	bạn
+qá	quá
+qà	quà
+qả	quả
+qc	quảng cáo
+re	rẻ
+rẽ	rẻ
+rì	gì
+sd	sử dụng
+sf	sản phẩm
+sg	sài gòn
+sp	sản phẩm
+sr	sorry
+tq	trung quốc
+ud	ứng dụng
+ưd	ứng dụng
+ug	ứng
+ủg	ủng
+ưg	ưng
+ứg	ứng
+uh	ừ
+uk	uh
+ừk	ừ
+ứq	ứng
+vc	vợ chồng
+vd	ví dụ
+vđ	vãi đái
+vk	vợ
+vn	việt nam
+vs	với
+vv	vui vẻ
+wa	quá
+wá	quá
+xg	xuống
+xl	xin lỗi
+yc	yêu cầu
+zà	già
+zạ	dạ
+zẻ	vẻ
+zì	gì
 zú	vú
 zư	dư
 zữ	dữ
 zử	dữ
 zụ	dụ
-zừa	vừa
-zui	vui
-zùi	rồi
-zuii	vui
-zùm	dùm
-zựtcôhôn	zựt cô hồn
+zô	vô
+k	không
 r	rồi
-hôg	không
-gđình	gia đình
-nhiềuu	nhiều
-ơii	ơi
 j	gì
 z	vậy
-zô	vô
-hjhj	hihi
