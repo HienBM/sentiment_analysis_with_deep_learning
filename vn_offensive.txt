@@ -1,188 +1,193 @@
-đm	địt mẹ
-dm	địt mẹ
-vl	vãi lồn
-cc	con cặc
-lz	lồn
-đmm	địt mẹ mày
-dmm	địt mẹ mày
-đcm	địt con mẹ
-dcm	địt con mẹ
-cđĩ	con đĩ
-tml	thằng mặt lồn
-dml	đĩ mặt lồn
-sml	sấp mặt lồn
-vcl	vãi cả lồn
-cmn	con mẹ nó
-dkm	địt con mẹ
-đmmm	địt mẹ mày
-đcmm	địt con mẹ mày
-doma	đụ má
-dime	đĩ mẹ
-thml	thằng mặt lồn
-diml	đĩ mặt lồn
-clgt	cái lồn gì thế
-vlon	vãi lồn
-vloz	vãi lồn
-vlol	vãi lồn
-vleu	vãi lồn
-clmn	cái lồn mẹ nó
-bucak	bú cặc
-disme	địt mẹ
-duoma	đụ má
-đilol	đĩ lồn
-điloz	đĩ lồn
-đilon	đĩ lồn
-diloz	đĩ lồn
-dilol	đĩ lồn
-dilon	đĩ lồn
-condi	con đĩ
-di me	đĩ mẹ
-buscu	bú cu
-occho	óc chó
-nhucc	như con cặc
-cuccut	cục cức
-cười ẻ	cười ỉa
-dis me	địt mẹ
-dismje	địt mẹ
-dismia	địt mẹ
-matlon	mặt lồn
-cailon	cái lồn
-matlol	mặt lồn
-matloz	mặt lồn
-ăn lol	ăn lồn
 an lol	ăn lồn
-củ lol	củ lồn
-cu lol	củ lồn
-nuglol	nứng lồn
-vailon	vãi lồn
-vailol	vãi lồn
-nhucac	như cặc
-đỵt cụ	địt cụ
-concac	con cặc
-nungcak	nứng cặc
-dell ăn	đéo ăn
-dell an	đéo ăn
-dell đi	đéo đi
-dell di	đéo đi
-dis mia	địt mẹ
-dis mie	địt mẹ
-đis mịa	địt mẹ
-đis mịe	địt mẹ
-dimemay	đĩ mẹ mày
-condime	con đĩ mẹ
-thangml	thằng mặt lồn
-xàm lol	xàm lồn
-xam lol	xàm lồn
-xạo lol	xạo lồn
-xao lol	xạo lồn
-con lol	con lol
-ham lol	hãm lồn
-ngu lol	ngu lồn
-mõm lol	mõm lồn
-nug lol	nứng lồn
-tét lol	tét lồn
-cào lol	cào lồn
-cao lol	cào lồn
-mặt lol	mặt lồn
-xàm lon	xàm lồn
-xam lon	xàm lồn
-xạo lon	xạo lồn
-xao lon	xạo lồn
-ham lon	hãm lồn
-xephinh	xếp hình
-con cat	con cặc
-nhu lol	như lồn
-xamloll	xàm lồn
-daubuoi	đầu buồi
-dau boi	đầu buồi
-đầu bòy	đầu bòi
-đầu bùi	đầu buồi
-dau boy	đầu bòi
-dell nói	đéo nói
-dell noi	đéo nói
-dell làm	đéo làm
-dell lam	đéo làm
-ditmemay	địt mẹ mày
-dmconcho	địt mẹ con chó
-condicho	con đĩ chó
-tuổi lol	tuổi lồn
-tuoi lol	tuổi lồn
-nứng lol	nứng lồn
-nung lol	nứng lồn
-rảnh lol	rảnh lồn
-ranh lol	rảnh lồn
+ăn lol	ăn lồn
 banh lol	banh lồn
-vạch lol	vạch lồn
-vach lol	vạch lồn
-tung lol	tung lồn
-cuc phan	cục phân
-ditconme	địt con mẹ
-ditcumay	địt cụ mày
-dittmmee	địt mẹ
-đmshopee	địt mẹ shopee
-dau buoi	đầu buồi
+bucak	bú cặc
+buscu	bú cu
 caiconcac	cái con cặc
 caiconcak	cái con cặc
-dell ngửi	đéo ngửi
-dell ngui	đéo ngửi
-dell chịu	đéo chịu
-dell chiu	đéo chịu
-dell hiểu	đéo hiểu
-dell hieu	đéo hiểu
-dell biết	đéo biết
+caidauboi	cái đầu bòi
+caidauboy	cái đầu bòi
+caidaubuoi	cái đầu buồi
+cailon	cái lồn
+cao lol	cào lồn
+cào lol	cào lồn
+cc	con cặc
+cđĩ	con đĩ
+chich choac	chịch choạc
+clgt	cái lồn gì thế
+clm	cái lồn mẹ
+clmm	cái lồn mẹ mày
+clmn	cái lồn mẹ nó
+cmm	con mẹ mày
+cmn	con mẹ nó
+cmnl	con mẹ nó luôn
+cmnr	con mẹ nó rồi
+con cat	con cặc
+con lol	con lol
+concac	con cặc
+concak	con cặc
+condi	con đĩ
+condicho	con đĩ chó
+condime	con đĩ mẹ
+condimemay	con đĩ mẹ
+cu lol	củ lồn
+củ lol	củ lồn
+cuc phan	cục phân
+cuccut	cục cức
+cười ẻ	cười ỉa
+dau boi	đầu buồi
+dau boy	đầu bòi
+đầu bòy	đầu bòi
+đầu bùi	đầu buồi
+dau buoi	đầu buồi
+dauboi	đầu bòi
+dauboy	đầu bòi
+daubuoi	đầu buồi
+đbh	đéo bao giờ
+dcm	địt con mẹ
+đcm	địt con mẹ
+dcmm	địt con mẹ mày
+đcmm	địt con mẹ mày
+del	đéo
+đel	đéo
+dell	đéo
+đell	đéo
+dell an	đéo ăn
+dell ăn	đéo ăn
 dell biet	đéo biết
-dell nghe	đéo nghe
-dell được	đéo được
-dell duoc	đéo được
-dell chạy	đéo chạy
+dell biết	đéo biết
 dell chay	đéo chạy
-sapmatlol	sấp mặt lồn
-sapmatlon	sấp mặt lồn
-sapmatloz	sấp mặt lồn
+dell chạy	đéo chạy
+dell chiu	đéo chịu
+dell chịu	đéo chịu
+dell di	đéo đi
+dell đi	đéo đi
+dell duoc	đéo được
+dell được	đéo được
+dell hieu	đéo hiểu
+dell hiểu	đéo hiểu
+dell lam	đéo làm
+dell làm	đéo làm
+dell nghe	đéo nghe
+dell ngui	đéo ngửi
+dell ngửi	đéo ngửi
+dell noi	đéo nói
+dell nói	đéo nói
+dellhieukieugi	đéo hiểu kiểu gì
+dellnoinhieu	đéo nói nhiều
+déo	đéo
+đeó	đéo
 deo thich	đéo thích
 đeo thich	đéo thích
 đeo thích	đéo thích
-nhuconcac	như con cặc
-caidauboi	cái đầu bòi
-caidauboy	cái đầu bòi
-ditmecondi	địt mẹ con đĩ
-condimemay	con đĩ mẹ
-caidaubuoi	cái đầu buồi
-ditmeconcho	địt mẹ con chó
-thangmatlon	thằng mặt lồn
-chich choac	chịch choạc
-dellnoinhieu	đéo nói nhiều
-nhucaidaubuoi	như cái đầu buồi
 deohieukieugi	đéo hiểu kiểu gì
-ditmecondicho	địt mẹ con đĩ chó
-ditmemayconcho	địt mẹ mày con chó
-dellhieukieugi	đéo hiểu kiểu gì
-ditmethangoccho	địt mẹ thằng óc chó
+đhs	đéo hiểu sao
+di me	đĩ mẹ
+dilol	đĩ lồn
+đilol	đĩ lồn
+dilon	đĩ lồn
+đilon	đĩ lồn
+diloz	đĩ lồn
+điloz	đĩ lồn
+dime	đĩ mẹ
+dimemay	đĩ mẹ mày
+diml	đĩ mặt lồn
+dis me	địt mẹ
+dis mia	địt mẹ
+đis mịa	địt mẹ
+dis mie	địt mẹ
+đis mịe	địt mẹ
+disme	địt mẹ
+dismia	địt mẹ
+dismje	địt mẹ
 dit me	địt mẹ
-xamlon	xàm lồn
-xamloz	xàm lồn
-dauboi	đầu bòi
-dauboy	đầu bòi
-concak	con cặc
+ditconme	địt con mẹ
+đitconmemay	địt con mẹ mày
+địtconmẹmầy	địt con mẹ mày
+ditcumay	địt cụ mày
 ditme	địt mẹ
+ditmeconcho	địt mẹ con chó
+ditmecondi	địt mẹ con đĩ
+ditmecondicho	địt mẹ con đĩ chó
+ditmemay	địt mẹ mày
+ditmemayconcho	địt mẹ mày con chó
+ditmethangoccho	địt mẹ thằng óc chó
+dittmmee	địt mẹ
+dkm	địt con mẹ
+đkm	địt con mẹ
+dm	địt mẹ
+đm	địt mẹ
+dmconcho	địt mẹ con chó
+dml	đĩ mặt lồn
+dmm	địt mẹ mày
+đmm	địt mẹ mày
+đmmm	địt mẹ mày
+đmshopee	địt mẹ shopee
+doma	đụ má
 du me	đụ mẹ
 đu mẹ	đụ mẹ
-clmm	cái lồn mẹ mày
-cmnl	con mẹ nó luôn
-cmnr	con mẹ nó rồi
-dcmm	địt con mẹ mày
-dell	đéo
-đell	đéo
-clm	cái lồn mẹ
-cmm	con mẹ mày
-đbh	đéo bao giờ
-del	đéo
-đel	đéo
-déo	đéo
-đeó	đéo
-đhs	đéo hiểu sao
-đkm	địt con mẹ
+duoma	đụ má
+đỵt cụ	địt cụ
+ham lol	hãm lồn
+ham lon	hãm lồn
 lol	lồn
 loz	lồn
+lz	lồn
+mặt lol	mặt lồn
+matlol	mặt lồn
+matlon	mặt lồn
+matloz	mặt lồn
+mõm lol	mõm lồn
 ncc	như con cặc
+ngu lol	ngu lồn
+nhu cái lôn	như cái lồn
+nhu con cac	như con cặc
+nhu lol	như lồn
+nhucac	như cặc
+nhucaidaubuoi	như cái đầu buồi
+nhucc	như con cặc
+nhuconcac	như con cặc
+nug lol	nứng lồn
+nuglol	nứng lồn
+nung lol	nứng lồn
+nứng lol	nứng lồn
+nungcak	nứng cặc
+occho	óc chó
+qq	quần què
+ranh lol	rảnh lồn
+rảnh lol	rảnh lồn
+sapmatlol	sấp mặt lồn
+sapmatlon	sấp mặt lồn
+sapmatloz	sấp mặt lồn
+sml	sấp mặt lồn
+tét lol	tét lồn
+thangmatlon	thằng mặt lồn
+thangml	thằng mặt lồn
+thml	thằng mặt lồn
+tml	thằng mặt lồn
+tung lol	tung lồn
+tuoi lol	tuổi lồn
+tuổi lol	tuổi lồn
+vach lol	vạch lồn
+vạch lol	vạch lồn
+vailol	vãi lồn
+vailon	vãi lồn
+vcl	vãi cả lồn
+vl	vãi lồn
+vleu	vãi lồn
+vlol	vãi lồn
+vlon	vãi lồn
+vloz	vãi lồn
 wtf	what the fuck
+xam lol	xàm lồn
+xàm lol	xàm lồn
+xam lon	xàm lồn
+xàm lon	xàm lồn
+xamloll	xàm lồn
+xamlon	xàm lồn
+xamloz	xàm lồn
+xao lol	xạo lồn
+xạo lol	xạo lồn
+xao lon	xạo lồn
+xạo lon	xạo lồn
+xephinh	xếp hình
