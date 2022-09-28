@@ -384,7 +384,7 @@ empty	rỗng
 female	nữ
 inevitable	không thể tránh khỏi
 neat	gọn gàng
-ok	ok
+ok	được
 representative	đại diện
 silly	ngớ ngẩn
 slight	nhẹ
@@ -446,7 +446,7 @@ medium	trung
 choice	lựa chọn
 north	phía bắc
 square	vuông
-born	ngày sinh:
+born	ngày sinh
 capital	vốn
 shot	bắn
 front	trước
